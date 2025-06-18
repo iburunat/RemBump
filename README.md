@@ -13,11 +13,6 @@ Color gradient: Density magnitude, ranging from dark blue (low) to yellow (high)
 
 These plots are interactive and allow the viewer to rotate, zoom, and explore the lifespan dynamics from different angles. They offer an intuitive and engaging way to understand the distribution and evolution of musical memories across age groups.
 
-
-## [RemBump: Males](https://iburunat.github.io/RemBump/plot_3d_male.html)
-
-## [RemBump: Females](https://iburunat.github.io/RemBump/plot_3d_female.html)
-
-## [RemBump: All](https://iburunat.github.io/RemBump/plot_3d_all.html)
+## [All participants](https://iburunat.github.io/RemBump/plot_3d_all.html) | [Males](https://iburunat.github.io/RemBump/plot_3d_male.html) | [Females](https://iburunat.github.io/RemBump/plot_3d_female.html) 
 
 
