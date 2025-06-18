@@ -1,7 +1,7 @@
-# [RemBump: Males](https://iburunat.github.io/RemBump/Males_real.html)
+# [RemBump: Males](https://iburunat.github.io/RemBump/plot_3d_male.html)
 
-# [RemBump: Females](https://iburunat.github.io/RemBump/Females_real.html)
+# [RemBump: Females](https://iburunat.github.io/RemBump/plot_3d_female.html)
 
-# [RemBump: All](https://iburunat.github.io/RemBump/All_real.html)
+# [RemBump: All](https://iburunat.github.io/RemBump/plot_3d_all.html)
 
 
